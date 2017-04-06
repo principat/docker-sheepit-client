@@ -1,5 +1,5 @@
 # docker-sheepit-client
-docker file for the scheepit client
+docker file for my scheepit client (https://github.com/principat/sheepit-client)
 
 ## how to use
 
