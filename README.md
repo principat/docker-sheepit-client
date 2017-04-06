@@ -6,5 +6,5 @@ docker file for the scheepit client
 - install docker
 - clone or download this repository
 - edit scheepit.conf to your personal needs
-- run docker build -t docker-sheepit-client .
-- to start run docker run docker-sheepit-client
+- run: docker build -t docker-sheepit-client .
+- to start run: docker run docker-sheepit-client
